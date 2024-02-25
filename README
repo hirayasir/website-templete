@@ -1,0 +1,48 @@
+Beauty | Wellness | Lifestyle Template
+
+This is a simple template for a Beauty, Wellness, and Lifestyle website, designed to be responsive and easy to customize.
+
+Customization
+
+1. Adding Your Own Content
+
+Home Section
+
+To change the main headline and introductory text, modify the content within the <h1> and <p> tags in the Home section (<section id="home">).
+
+About Section
+
+Update the About Us section (<section id="about">) with your own content by replacing the placeholder text.
+
+Services Section
+
+Adjust the Services section (<section id="services">) by replacing the placeholder content with your own services.
+
+Portfolio Section
+
+Customize the Portfolio section (<section id="portfolio">) by replacing the placeholder content with your own portfolio items.
+
+Footer
+
+Modify the footer (<footer>) with your own copyright information and social media links.
+
+2. Design Customization
+Colors
+
+To change the color scheme, update the CSS file (styles.css) with your desired colors. You can replace the existing color codes with your own.
+
+Fonts
+
+Adjust fonts by modifying the font styles in the CSS file (styles.css). You can change the font family, size, and weight to match your preferences.
+
+3. Adding Images
+
+Replace the placeholder images with your own images by updating the src attribute of the <img> tags.
+
+Design Choices and Considerations
+
+Responsive Design: The template is built using Bootstrap, ensuring responsiveness across various devices and screen sizes.
+
+Clean and Simple: The design aims for simplicity and clarity to provide a pleasant user experience.
+
+Ease of Customization: The template is designed to be easily customizable, allowing users to add their own content and adjust design elements with minimal effort.
